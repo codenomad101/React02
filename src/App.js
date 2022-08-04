@@ -31,6 +31,7 @@ function App() {
       <div>
         <div>
           <h1>Counter</h1>
+    <h1>This is awesome</h1> 
           <h2> {number}</h2>
 
           <button onClick={decreaseHandler} className="btn btn-primary">
